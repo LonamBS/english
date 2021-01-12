@@ -1,0 +1,92 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    
+    padding: 5px 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 700;
+    
+    margin: 0;
+}
+
+/* Container */
+
+.container {
+    width: 100%;
+    max-width: 1500px;
+    
+    margin: 0 auto;
+}
+
+/* Header */
+
+header h1 {
+    text-align: center;
+}
+
+.glav {
+    background-color: green;
+    border: 6px solid darkgreen;
+    
+    padding: 5px 10px;
+    
+    color: #fff;
+}
+
+.glav a {
+    color: #fff;
+}
+
+/* Main */
+
+main li {
+    font-size: 19px;
+}
+
+main p {
+    font-size: 18px;
+}
+
+main h1 {
+    font-size: 27;
+    font-weight: 500;
+}
+
+.prv {
+    background-color: green;
+    border: 6px solid darkgreen;
+    
+    padding: 5px 10px;
+    
+    color: #fff;
+}
+
+.prv a {
+    color: #fff;
+}
+
+.mrk {
+    color: red;
+}
+
+.podch {
+    text-decoration-line: underline;
+}
+
+.obr {
+    font-size: 19px;
+}
+
+/* Footer */
+
+footer p {
+    font-size: 18px;
+}
